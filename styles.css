@@ -23,6 +23,7 @@
 
 body{
     background: var(--slate-300);
+    max-height: 100vh;
 }
 
 figure{
@@ -30,8 +31,8 @@ figure{
     padding: var(--small-space),var(--small-space),var(--small-space),var(--large-space);
     margin-left: auto;
     margin-right: auto;
-    margin-top: 230px;
-    margin-bottom: 230px;
+    margin-top: 25vh;
+    margin-bottom: 0;
 
     border-radius: 20px;
 
