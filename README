@@ -1,8 +1,20 @@
-The project is an implementation of a frontend design of a QR-Code. I used CSS and HTML. A live site can be found here: https://yarnileach2005-code.github.io/qr-code-frontend-mentor/
-In this Project I relearned the basic elements of html and css.
-The Project brief can be found here: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+What the project is: The project is an implementation of a frontend design of a QR-Code.
+ Built with:
+    -HTML
+    -CSS
+ Live Site: https://yarnileach2005-code.github.io/qr-code-frontend-mentor/
 
-Implemented CSS based on Figma file. Decided against implementing with Flexbox or Grid because it was only one object.
+What I learned:
+    -In this Project I relearned the basic elements of html and css.
+    -how to position singular elements in a container
+    -when to use Grids, Flexbox, or normal positioning
+    -how to work with variables and naming conventions
+    -how to work with Figma
+What I would do differently:
+    -better structuring of css
+
+The Project brief of the task can be found here: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+
 
 
 
